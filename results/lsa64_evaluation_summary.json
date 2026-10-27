@@ -1,0 +1,470 @@
+{
+  "dataset": "lsa64",
+  "model_path": "models/lsa64_finetuned.pth",
+  "num_classes": 64,
+  "test_loss": 0.862334668636322,
+  "test_accuracy_top1": 0.8109375,
+  "test_accuracy_top5": 0.940625,
+  "per_class_accuracy": [
+    {
+      "class_idx": 0,
+      "class_name": "opaque",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 1,
+      "class_name": "red",
+      "total": 10,
+      "correct": 5,
+      "accuracy": 0.5
+    },
+    {
+      "class_idx": 2,
+      "class_name": "green",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 3,
+      "class_name": "yellow",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 4,
+      "class_name": "bright",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 5,
+      "class_name": "light-blue",
+      "total": 10,
+      "correct": 9,
+      "accuracy": 0.9
+    },
+    {
+      "class_idx": 6,
+      "class_name": "colors",
+      "total": 10,
+      "correct": 6,
+      "accuracy": 0.6
+    },
+    {
+      "class_idx": 7,
+      "class_name": "pink",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 8,
+      "class_name": "women",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 9,
+      "class_name": "enemy",
+      "total": 10,
+      "correct": 5,
+      "accuracy": 0.5
+    },
+    {
+      "class_idx": 10,
+      "class_name": "son",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 11,
+      "class_name": "man",
+      "total": 10,
+      "correct": 4,
+      "accuracy": 0.4
+    },
+    {
+      "class_idx": 12,
+      "class_name": "away",
+      "total": 10,
+      "correct": 6,
+      "accuracy": 0.6
+    },
+    {
+      "class_idx": 13,
+      "class_name": "drawer",
+      "total": 10,
+      "correct": 3,
+      "accuracy": 0.3
+    },
+    {
+      "class_idx": 14,
+      "class_name": "born",
+      "total": 10,
+      "correct": 5,
+      "accuracy": 0.5
+    },
+    {
+      "class_idx": 15,
+      "class_name": "learn",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 16,
+      "class_name": "call",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 17,
+      "class_name": "skimmer",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 18,
+      "class_name": "bitter",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 19,
+      "class_name": "sweet-milk",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 20,
+      "class_name": "milk",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 21,
+      "class_name": "water",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 22,
+      "class_name": "food",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 23,
+      "class_name": "argentina",
+      "total": 10,
+      "correct": 8,
+      "accuracy": 0.8
+    },
+    {
+      "class_idx": 24,
+      "class_name": "uruguay",
+      "total": 10,
+      "correct": 8,
+      "accuracy": 0.8
+    },
+    {
+      "class_idx": 25,
+      "class_name": "country",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 26,
+      "class_name": "last-name",
+      "total": 10,
+      "correct": 8,
+      "accuracy": 0.8
+    },
+    {
+      "class_idx": 27,
+      "class_name": "where",
+      "total": 10,
+      "correct": 5,
+      "accuracy": 0.5
+    },
+    {
+      "class_idx": 28,
+      "class_name": "mock",
+      "total": 10,
+      "correct": 9,
+      "accuracy": 0.9
+    },
+    {
+      "class_idx": 29,
+      "class_name": "birthday",
+      "total": 10,
+      "correct": 6,
+      "accuracy": 0.6
+    },
+    {
+      "class_idx": 30,
+      "class_name": "breakfast",
+      "total": 10,
+      "correct": 9,
+      "accuracy": 0.9
+    },
+    {
+      "class_idx": 31,
+      "class_name": "photo",
+      "total": 10,
+      "correct": 9,
+      "accuracy": 0.9
+    },
+    {
+      "class_idx": 32,
+      "class_name": "hungry",
+      "total": 10,
+      "correct": 2,
+      "accuracy": 0.2
+    },
+    {
+      "class_idx": 33,
+      "class_name": "map",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 34,
+      "class_name": "coin",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 35,
+      "class_name": "music",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 36,
+      "class_name": "ship",
+      "total": 10,
+      "correct": 6,
+      "accuracy": 0.6
+    },
+    {
+      "class_idx": 37,
+      "class_name": "none",
+      "total": 10,
+      "correct": 8,
+      "accuracy": 0.8
+    },
+    {
+      "class_idx": 38,
+      "class_name": "name",
+      "total": 10,
+      "correct": 7,
+      "accuracy": 0.7
+    },
+    {
+      "class_idx": 39,
+      "class_name": "patience",
+      "total": 10,
+      "correct": 9,
+      "accuracy": 0.9
+    },
+    {
+      "class_idx": 40,
+      "class_name": "perfume",
+      "total": 10,
+      "correct": 9,
+      "accuracy": 0.9
+    },
+    {
+      "class_idx": 41,
+      "class_name": "deaf",
+      "total": 10,
+      "correct": 7,
+      "accuracy": 0.7
+    },
+    {
+      "class_idx": 42,
+      "class_name": "trap",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 43,
+      "class_name": "rice",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 44,
+      "class_name": "barbecue",
+      "total": 10,
+      "correct": 9,
+      "accuracy": 0.9
+    },
+    {
+      "class_idx": 45,
+      "class_name": "candy",
+      "total": 10,
+      "correct": 9,
+      "accuracy": 0.9
+    },
+    {
+      "class_idx": 46,
+      "class_name": "chewing-gum",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 47,
+      "class_name": "spaghetti",
+      "total": 10,
+      "correct": 8,
+      "accuracy": 0.8
+    },
+    {
+      "class_idx": 48,
+      "class_name": "yogurt",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 49,
+      "class_name": "accept",
+      "total": 10,
+      "correct": 4,
+      "accuracy": 0.4
+    },
+    {
+      "class_idx": 50,
+      "class_name": "thanks",
+      "total": 10,
+      "correct": 7,
+      "accuracy": 0.7
+    },
+    {
+      "class_idx": 51,
+      "class_name": "shut-down",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 52,
+      "class_name": "appear",
+      "total": 10,
+      "correct": 1,
+      "accuracy": 0.1
+    },
+    {
+      "class_idx": 53,
+      "class_name": "to-land",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 54,
+      "class_name": "catch",
+      "total": 10,
+      "correct": 7,
+      "accuracy": 0.7
+    },
+    {
+      "class_idx": 55,
+      "class_name": "help",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 56,
+      "class_name": "dance",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 57,
+      "class_name": "bathe",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 58,
+      "class_name": "buy",
+      "total": 10,
+      "correct": 7,
+      "accuracy": 0.7
+    },
+    {
+      "class_idx": 59,
+      "class_name": "copy",
+      "total": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 60,
+      "class_name": "run",
+      "total": 10,
+      "correct": 9,
+      "accuracy": 0.9
+    },
+    {
+      "class_idx": 61,
+      "class_name": "realize",
+      "total": 10,
+      "correct": 4,
+      "accuracy": 0.4
+    },
+    {
+      "class_idx": 62,
+      "class_name": "give",
+      "total": 10,
+      "correct": 5,
+      "accuracy": 0.5
+    },
+    {
+      "class_idx": 63,
+      "class_name": "find",
+      "total": 10,
+      "correct": 6,
+      "accuracy": 0.6
+    }
+  ],
+  "macro_avg": {
+    "precision": 0.8709524416555667,
+    "recall": 0.8109375000000001,
+    "f1-score": 0.8148127565546843,
+    "support": 640.0
+  },
+  "weighted_avg": {
+    "precision": 0.8709524416555666,
+    "recall": 0.8109375,
+    "f1-score": 0.8148127565546843,
+    "support": 640.0
+  }
+}

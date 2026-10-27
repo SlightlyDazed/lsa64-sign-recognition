@@ -1,0 +1,68 @@
+{
+  "dataset_name": "LSA64 (Argentine Sign Language)",
+  "directory_path": "all",
+  "structure_type": "flat",
+  "has_subdirectories": false,
+  "naming_convention": {
+    "format": "CCC_SSS_RRR.mp4",
+    "components": {
+      "CCC": "Class ID (001 to 064) - Represents the specific sign",
+      "SSS": "Subject ID (001 to 010) - Represents the person performing the sign",
+      "RRR": "Repetition ID (001 to 005) - Represents the repetition number"
+    },
+    "example": "034_010_005.mp4 -> Class 34, Subject 10, Repetition 5"
+  },
+  "statistics": {
+    "total_classes": 64,
+    "total_subjects": 10,
+    "repetitions_per_subject": 5,
+    "total_expected_videos": 3200
+  },
+  "first_30_files_sample": [
+    "001_001_001.mp4",
+    "001_001_002.mp4",
+    "001_001_003.mp4",
+    "001_001_004.mp4",
+    "001_001_005.mp4",
+    "001_002_001.mp4",
+    "001_002_002.mp4",
+    "001_002_003.mp4",
+    "001_002_004.mp4",
+    "001_002_005.mp4",
+    "001_003_001.mp4",
+    "001_003_002.mp4",
+    "001_003_003.mp4",
+    "001_003_004.mp4",
+    "001_003_005.mp4",
+    "001_004_001.mp4",
+    "001_004_002.mp4",
+    "001_004_003.mp4",
+    "001_004_004.mp4",
+    "001_004_005.mp4",
+    "001_005_001.mp4",
+    "001_005_002.mp4",
+    "001_005_003.mp4",
+    "001_005_004.mp4",
+    "001_005_005.mp4",
+    "001_006_001.mp4",
+    "001_006_002.mp4",
+    "001_006_003.mp4",
+    "001_006_004.mp4",
+    "001_006_005.mp4"
+  ],
+  "proposed_pipeline_split": {
+    "strategy": "Subject-Independent Split (Prevents Data Leakage)",
+    "train_split": {
+      "subjects": [1, 2, 3, 4, 5, 6, 7],
+      "percentage": "70%"
+    },
+    "val_split": {
+      "subjects": [8, 9],
+      "percentage": "20%"
+    },
+    "test_split": {
+      "subjects": [10],
+      "percentage": "10%"
+    }
+  }
+}

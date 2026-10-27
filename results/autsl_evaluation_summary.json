@@ -1,0 +1,1604 @@
+{
+  "dataset": "autsl",
+  "model_path": "models/autsl_finetuned.pth",
+  "num_classes": 226,
+  "test_loss": 1.1387474275279001,
+  "test_accuracy_top1": 0.6992782678428228,
+  "test_accuracy_top5": 0.9056402031542369,
+  "per_class_accuracy": [
+    {
+      "class_idx": 0,
+      "class_name": "class_000",
+      "total": 16,
+      "correct": 10,
+      "accuracy": 0.625
+    },
+    {
+      "class_idx": 1,
+      "class_name": "class_001",
+      "total": 16,
+      "correct": 11,
+      "accuracy": 0.6875
+    },
+    {
+      "class_idx": 2,
+      "class_name": "class_002",
+      "total": 17,
+      "correct": 17,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 3,
+      "class_name": "class_003",
+      "total": 17,
+      "correct": 15,
+      "accuracy": 0.8823529411764706
+    },
+    {
+      "class_idx": 4,
+      "class_name": "class_004",
+      "total": 17,
+      "correct": 11,
+      "accuracy": 0.6470588235294118
+    },
+    {
+      "class_idx": 5,
+      "class_name": "class_005",
+      "total": 17,
+      "correct": 9,
+      "accuracy": 0.5294117647058824
+    },
+    {
+      "class_idx": 6,
+      "class_name": "class_006",
+      "total": 17,
+      "correct": 11,
+      "accuracy": 0.6470588235294118
+    },
+    {
+      "class_idx": 7,
+      "class_name": "class_007",
+      "total": 17,
+      "correct": 9,
+      "accuracy": 0.5294117647058824
+    },
+    {
+      "class_idx": 8,
+      "class_name": "class_008",
+      "total": 17,
+      "correct": 7,
+      "accuracy": 0.4117647058823529
+    },
+    {
+      "class_idx": 9,
+      "class_name": "class_009",
+      "total": 17,
+      "correct": 8,
+      "accuracy": 0.47058823529411764
+    },
+    {
+      "class_idx": 10,
+      "class_name": "class_010",
+      "total": 17,
+      "correct": 16,
+      "accuracy": 0.9411764705882353
+    },
+    {
+      "class_idx": 11,
+      "class_name": "class_011",
+      "total": 16,
+      "correct": 16,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 12,
+      "class_name": "class_012",
+      "total": 15,
+      "correct": 11,
+      "accuracy": 0.7333333333333333
+    },
+    {
+      "class_idx": 13,
+      "class_name": "class_013",
+      "total": 16,
+      "correct": 10,
+      "accuracy": 0.625
+    },
+    {
+      "class_idx": 14,
+      "class_name": "class_014",
+      "total": 17,
+      "correct": 7,
+      "accuracy": 0.4117647058823529
+    },
+    {
+      "class_idx": 15,
+      "class_name": "class_015",
+      "total": 15,
+      "correct": 11,
+      "accuracy": 0.7333333333333333
+    },
+    {
+      "class_idx": 16,
+      "class_name": "class_016",
+      "total": 14,
+      "correct": 5,
+      "accuracy": 0.35714285714285715
+    },
+    {
+      "class_idx": 17,
+      "class_name": "class_017",
+      "total": 16,
+      "correct": 7,
+      "accuracy": 0.4375
+    },
+    {
+      "class_idx": 18,
+      "class_name": "class_018",
+      "total": 17,
+      "correct": 17,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 19,
+      "class_name": "class_019",
+      "total": 17,
+      "correct": 12,
+      "accuracy": 0.7058823529411765
+    },
+    {
+      "class_idx": 20,
+      "class_name": "class_020",
+      "total": 16,
+      "correct": 15,
+      "accuracy": 0.9375
+    },
+    {
+      "class_idx": 21,
+      "class_name": "class_021",
+      "total": 17,
+      "correct": 13,
+      "accuracy": 0.7647058823529411
+    },
+    {
+      "class_idx": 22,
+      "class_name": "class_022",
+      "total": 17,
+      "correct": 11,
+      "accuracy": 0.6470588235294118
+    },
+    {
+      "class_idx": 23,
+      "class_name": "class_023",
+      "total": 16,
+      "correct": 11,
+      "accuracy": 0.6875
+    },
+    {
+      "class_idx": 24,
+      "class_name": "class_024",
+      "total": 16,
+      "correct": 9,
+      "accuracy": 0.5625
+    },
+    {
+      "class_idx": 25,
+      "class_name": "class_025",
+      "total": 16,
+      "correct": 13,
+      "accuracy": 0.8125
+    },
+    {
+      "class_idx": 26,
+      "class_name": "class_026",
+      "total": 17,
+      "correct": 16,
+      "accuracy": 0.9411764705882353
+    },
+    {
+      "class_idx": 27,
+      "class_name": "class_027",
+      "total": 17,
+      "correct": 9,
+      "accuracy": 0.5294117647058824
+    },
+    {
+      "class_idx": 28,
+      "class_name": "class_028",
+      "total": 17,
+      "correct": 16,
+      "accuracy": 0.9411764705882353
+    },
+    {
+      "class_idx": 29,
+      "class_name": "class_029",
+      "total": 17,
+      "correct": 13,
+      "accuracy": 0.7647058823529411
+    },
+    {
+      "class_idx": 30,
+      "class_name": "class_030",
+      "total": 17,
+      "correct": 9,
+      "accuracy": 0.5294117647058824
+    },
+    {
+      "class_idx": 31,
+      "class_name": "class_031",
+      "total": 17,
+      "correct": 15,
+      "accuracy": 0.8823529411764706
+    },
+    {
+      "class_idx": 32,
+      "class_name": "class_032",
+      "total": 17,
+      "correct": 15,
+      "accuracy": 0.8823529411764706
+    },
+    {
+      "class_idx": 33,
+      "class_name": "class_033",
+      "total": 17,
+      "correct": 11,
+      "accuracy": 0.6470588235294118
+    },
+    {
+      "class_idx": 34,
+      "class_name": "class_034",
+      "total": 17,
+      "correct": 6,
+      "accuracy": 0.35294117647058826
+    },
+    {
+      "class_idx": 35,
+      "class_name": "class_035",
+      "total": 16,
+      "correct": 16,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 36,
+      "class_name": "class_036",
+      "total": 17,
+      "correct": 12,
+      "accuracy": 0.7058823529411765
+    },
+    {
+      "class_idx": 37,
+      "class_name": "class_037",
+      "total": 17,
+      "correct": 13,
+      "accuracy": 0.7647058823529411
+    },
+    {
+      "class_idx": 38,
+      "class_name": "class_038",
+      "total": 17,
+      "correct": 15,
+      "accuracy": 0.8823529411764706
+    },
+    {
+      "class_idx": 39,
+      "class_name": "class_039",
+      "total": 16,
+      "correct": 11,
+      "accuracy": 0.6875
+    },
+    {
+      "class_idx": 40,
+      "class_name": "class_040",
+      "total": 17,
+      "correct": 14,
+      "accuracy": 0.8235294117647058
+    },
+    {
+      "class_idx": 41,
+      "class_name": "class_041",
+      "total": 17,
+      "correct": 8,
+      "accuracy": 0.47058823529411764
+    },
+    {
+      "class_idx": 42,
+      "class_name": "class_042",
+      "total": 17,
+      "correct": 15,
+      "accuracy": 0.8823529411764706
+    },
+    {
+      "class_idx": 43,
+      "class_name": "class_043",
+      "total": 17,
+      "correct": 11,
+      "accuracy": 0.6470588235294118
+    },
+    {
+      "class_idx": 44,
+      "class_name": "class_044",
+      "total": 17,
+      "correct": 14,
+      "accuracy": 0.8235294117647058
+    },
+    {
+      "class_idx": 45,
+      "class_name": "class_045",
+      "total": 17,
+      "correct": 16,
+      "accuracy": 0.9411764705882353
+    },
+    {
+      "class_idx": 46,
+      "class_name": "class_046",
+      "total": 17,
+      "correct": 17,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 47,
+      "class_name": "class_047",
+      "total": 14,
+      "correct": 1,
+      "accuracy": 0.07142857142857142
+    },
+    {
+      "class_idx": 48,
+      "class_name": "class_048",
+      "total": 17,
+      "correct": 8,
+      "accuracy": 0.47058823529411764
+    },
+    {
+      "class_idx": 49,
+      "class_name": "class_049",
+      "total": 17,
+      "correct": 10,
+      "accuracy": 0.5882352941176471
+    },
+    {
+      "class_idx": 50,
+      "class_name": "class_050",
+      "total": 15,
+      "correct": 15,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 51,
+      "class_name": "class_051",
+      "total": 16,
+      "correct": 11,
+      "accuracy": 0.6875
+    },
+    {
+      "class_idx": 52,
+      "class_name": "class_052",
+      "total": 10,
+      "correct": 7,
+      "accuracy": 0.7
+    },
+    {
+      "class_idx": 53,
+      "class_name": "class_053",
+      "total": 17,
+      "correct": 8,
+      "accuracy": 0.47058823529411764
+    },
+    {
+      "class_idx": 54,
+      "class_name": "class_054",
+      "total": 16,
+      "correct": 13,
+      "accuracy": 0.8125
+    },
+    {
+      "class_idx": 55,
+      "class_name": "class_055",
+      "total": 17,
+      "correct": 12,
+      "accuracy": 0.7058823529411765
+    },
+    {
+      "class_idx": 56,
+      "class_name": "class_056",
+      "total": 16,
+      "correct": 11,
+      "accuracy": 0.6875
+    },
+    {
+      "class_idx": 57,
+      "class_name": "class_057",
+      "total": 16,
+      "correct": 11,
+      "accuracy": 0.6875
+    },
+    {
+      "class_idx": 58,
+      "class_name": "class_058",
+      "total": 17,
+      "correct": 17,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 59,
+      "class_name": "class_059",
+      "total": 17,
+      "correct": 14,
+      "accuracy": 0.8235294117647058
+    },
+    {
+      "class_idx": 60,
+      "class_name": "class_060",
+      "total": 14,
+      "correct": 14,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 61,
+      "class_name": "class_061",
+      "total": 17,
+      "correct": 13,
+      "accuracy": 0.7647058823529411
+    },
+    {
+      "class_idx": 62,
+      "class_name": "class_062",
+      "total": 17,
+      "correct": 12,
+      "accuracy": 0.7058823529411765
+    },
+    {
+      "class_idx": 63,
+      "class_name": "class_063",
+      "total": 17,
+      "correct": 9,
+      "accuracy": 0.5294117647058824
+    },
+    {
+      "class_idx": 64,
+      "class_name": "class_064",
+      "total": 17,
+      "correct": 15,
+      "accuracy": 0.8823529411764706
+    },
+    {
+      "class_idx": 65,
+      "class_name": "class_065",
+      "total": 15,
+      "correct": 10,
+      "accuracy": 0.6666666666666666
+    },
+    {
+      "class_idx": 66,
+      "class_name": "class_066",
+      "total": 16,
+      "correct": 13,
+      "accuracy": 0.8125
+    },
+    {
+      "class_idx": 67,
+      "class_name": "class_067",
+      "total": 15,
+      "correct": 6,
+      "accuracy": 0.4
+    },
+    {
+      "class_idx": 68,
+      "class_name": "class_068",
+      "total": 16,
+      "correct": 8,
+      "accuracy": 0.5
+    },
+    {
+      "class_idx": 69,
+      "class_name": "class_069",
+      "total": 15,
+      "correct": 12,
+      "accuracy": 0.8
+    },
+    {
+      "class_idx": 70,
+      "class_name": "class_070",
+      "total": 17,
+      "correct": 12,
+      "accuracy": 0.7058823529411765
+    },
+    {
+      "class_idx": 71,
+      "class_name": "class_071",
+      "total": 16,
+      "correct": 11,
+      "accuracy": 0.6875
+    },
+    {
+      "class_idx": 72,
+      "class_name": "class_072",
+      "total": 16,
+      "correct": 15,
+      "accuracy": 0.9375
+    },
+    {
+      "class_idx": 73,
+      "class_name": "class_073",
+      "total": 17,
+      "correct": 12,
+      "accuracy": 0.7058823529411765
+    },
+    {
+      "class_idx": 74,
+      "class_name": "class_074",
+      "total": 16,
+      "correct": 6,
+      "accuracy": 0.375
+    },
+    {
+      "class_idx": 75,
+      "class_name": "class_075",
+      "total": 16,
+      "correct": 16,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 76,
+      "class_name": "class_076",
+      "total": 17,
+      "correct": 12,
+      "accuracy": 0.7058823529411765
+    },
+    {
+      "class_idx": 77,
+      "class_name": "class_077",
+      "total": 16,
+      "correct": 14,
+      "accuracy": 0.875
+    },
+    {
+      "class_idx": 78,
+      "class_name": "class_078",
+      "total": 17,
+      "correct": 12,
+      "accuracy": 0.7058823529411765
+    },
+    {
+      "class_idx": 79,
+      "class_name": "class_079",
+      "total": 11,
+      "correct": 9,
+      "accuracy": 0.8181818181818182
+    },
+    {
+      "class_idx": 80,
+      "class_name": "class_080",
+      "total": 17,
+      "correct": 15,
+      "accuracy": 0.8823529411764706
+    },
+    {
+      "class_idx": 81,
+      "class_name": "class_081",
+      "total": 17,
+      "correct": 4,
+      "accuracy": 0.23529411764705882
+    },
+    {
+      "class_idx": 82,
+      "class_name": "class_082",
+      "total": 17,
+      "correct": 13,
+      "accuracy": 0.7647058823529411
+    },
+    {
+      "class_idx": 83,
+      "class_name": "class_083",
+      "total": 17,
+      "correct": 16,
+      "accuracy": 0.9411764705882353
+    },
+    {
+      "class_idx": 84,
+      "class_name": "class_084",
+      "total": 17,
+      "correct": 13,
+      "accuracy": 0.7647058823529411
+    },
+    {
+      "class_idx": 85,
+      "class_name": "class_085",
+      "total": 17,
+      "correct": 17,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 86,
+      "class_name": "class_086",
+      "total": 17,
+      "correct": 16,
+      "accuracy": 0.9411764705882353
+    },
+    {
+      "class_idx": 87,
+      "class_name": "class_087",
+      "total": 14,
+      "correct": 9,
+      "accuracy": 0.6428571428571429
+    },
+    {
+      "class_idx": 88,
+      "class_name": "class_088",
+      "total": 16,
+      "correct": 16,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 89,
+      "class_name": "class_089",
+      "total": 17,
+      "correct": 13,
+      "accuracy": 0.7647058823529411
+    },
+    {
+      "class_idx": 90,
+      "class_name": "class_090",
+      "total": 17,
+      "correct": 8,
+      "accuracy": 0.47058823529411764
+    },
+    {
+      "class_idx": 91,
+      "class_name": "class_091",
+      "total": 17,
+      "correct": 14,
+      "accuracy": 0.8235294117647058
+    },
+    {
+      "class_idx": 92,
+      "class_name": "class_092",
+      "total": 17,
+      "correct": 14,
+      "accuracy": 0.8235294117647058
+    },
+    {
+      "class_idx": 93,
+      "class_name": "class_093",
+      "total": 17,
+      "correct": 8,
+      "accuracy": 0.47058823529411764
+    },
+    {
+      "class_idx": 94,
+      "class_name": "class_094",
+      "total": 17,
+      "correct": 15,
+      "accuracy": 0.8823529411764706
+    },
+    {
+      "class_idx": 95,
+      "class_name": "class_095",
+      "total": 15,
+      "correct": 9,
+      "accuracy": 0.6
+    },
+    {
+      "class_idx": 96,
+      "class_name": "class_096",
+      "total": 17,
+      "correct": 7,
+      "accuracy": 0.4117647058823529
+    },
+    {
+      "class_idx": 97,
+      "class_name": "class_097",
+      "total": 17,
+      "correct": 5,
+      "accuracy": 0.29411764705882354
+    },
+    {
+      "class_idx": 98,
+      "class_name": "class_098",
+      "total": 16,
+      "correct": 11,
+      "accuracy": 0.6875
+    },
+    {
+      "class_idx": 99,
+      "class_name": "class_099",
+      "total": 17,
+      "correct": 10,
+      "accuracy": 0.5882352941176471
+    },
+    {
+      "class_idx": 100,
+      "class_name": "class_100",
+      "total": 17,
+      "correct": 7,
+      "accuracy": 0.4117647058823529
+    },
+    {
+      "class_idx": 101,
+      "class_name": "class_101",
+      "total": 17,
+      "correct": 13,
+      "accuracy": 0.7647058823529411
+    },
+    {
+      "class_idx": 102,
+      "class_name": "class_102",
+      "total": 17,
+      "correct": 14,
+      "accuracy": 0.8235294117647058
+    },
+    {
+      "class_idx": 103,
+      "class_name": "class_103",
+      "total": 16,
+      "correct": 9,
+      "accuracy": 0.5625
+    },
+    {
+      "class_idx": 104,
+      "class_name": "class_104",
+      "total": 17,
+      "correct": 12,
+      "accuracy": 0.7058823529411765
+    },
+    {
+      "class_idx": 105,
+      "class_name": "class_105",
+      "total": 17,
+      "correct": 17,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 106,
+      "class_name": "class_106",
+      "total": 17,
+      "correct": 12,
+      "accuracy": 0.7058823529411765
+    },
+    {
+      "class_idx": 107,
+      "class_name": "class_107",
+      "total": 17,
+      "correct": 10,
+      "accuracy": 0.5882352941176471
+    },
+    {
+      "class_idx": 108,
+      "class_name": "class_108",
+      "total": 16,
+      "correct": 13,
+      "accuracy": 0.8125
+    },
+    {
+      "class_idx": 109,
+      "class_name": "class_109",
+      "total": 17,
+      "correct": 9,
+      "accuracy": 0.5294117647058824
+    },
+    {
+      "class_idx": 110,
+      "class_name": "class_110",
+      "total": 17,
+      "correct": 7,
+      "accuracy": 0.4117647058823529
+    },
+    {
+      "class_idx": 111,
+      "class_name": "class_111",
+      "total": 17,
+      "correct": 12,
+      "accuracy": 0.7058823529411765
+    },
+    {
+      "class_idx": 112,
+      "class_name": "class_112",
+      "total": 17,
+      "correct": 17,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 113,
+      "class_name": "class_113",
+      "total": 17,
+      "correct": 14,
+      "accuracy": 0.8235294117647058
+    },
+    {
+      "class_idx": 114,
+      "class_name": "class_114",
+      "total": 17,
+      "correct": 15,
+      "accuracy": 0.8823529411764706
+    },
+    {
+      "class_idx": 115,
+      "class_name": "class_115",
+      "total": 16,
+      "correct": 16,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 116,
+      "class_name": "class_116",
+      "total": 17,
+      "correct": 11,
+      "accuracy": 0.6470588235294118
+    },
+    {
+      "class_idx": 117,
+      "class_name": "class_117",
+      "total": 14,
+      "correct": 6,
+      "accuracy": 0.42857142857142855
+    },
+    {
+      "class_idx": 118,
+      "class_name": "class_118",
+      "total": 15,
+      "correct": 14,
+      "accuracy": 0.9333333333333333
+    },
+    {
+      "class_idx": 119,
+      "class_name": "class_119",
+      "total": 17,
+      "correct": 17,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 120,
+      "class_name": "class_120",
+      "total": 17,
+      "correct": 11,
+      "accuracy": 0.6470588235294118
+    },
+    {
+      "class_idx": 121,
+      "class_name": "class_121",
+      "total": 17,
+      "correct": 15,
+      "accuracy": 0.8823529411764706
+    },
+    {
+      "class_idx": 122,
+      "class_name": "class_122",
+      "total": 17,
+      "correct": 3,
+      "accuracy": 0.17647058823529413
+    },
+    {
+      "class_idx": 123,
+      "class_name": "class_123",
+      "total": 17,
+      "correct": 16,
+      "accuracy": 0.9411764705882353
+    },
+    {
+      "class_idx": 124,
+      "class_name": "class_124",
+      "total": 17,
+      "correct": 5,
+      "accuracy": 0.29411764705882354
+    },
+    {
+      "class_idx": 125,
+      "class_name": "class_125",
+      "total": 17,
+      "correct": 12,
+      "accuracy": 0.7058823529411765
+    },
+    {
+      "class_idx": 126,
+      "class_name": "class_126",
+      "total": 16,
+      "correct": 13,
+      "accuracy": 0.8125
+    },
+    {
+      "class_idx": 127,
+      "class_name": "class_127",
+      "total": 17,
+      "correct": 10,
+      "accuracy": 0.5882352941176471
+    },
+    {
+      "class_idx": 128,
+      "class_name": "class_128",
+      "total": 17,
+      "correct": 7,
+      "accuracy": 0.4117647058823529
+    },
+    {
+      "class_idx": 129,
+      "class_name": "class_129",
+      "total": 17,
+      "correct": 12,
+      "accuracy": 0.7058823529411765
+    },
+    {
+      "class_idx": 130,
+      "class_name": "class_130",
+      "total": 17,
+      "correct": 15,
+      "accuracy": 0.8823529411764706
+    },
+    {
+      "class_idx": 131,
+      "class_name": "class_131",
+      "total": 14,
+      "correct": 7,
+      "accuracy": 0.5
+    },
+    {
+      "class_idx": 132,
+      "class_name": "class_132",
+      "total": 15,
+      "correct": 8,
+      "accuracy": 0.5333333333333333
+    },
+    {
+      "class_idx": 133,
+      "class_name": "class_133",
+      "total": 17,
+      "correct": 9,
+      "accuracy": 0.5294117647058824
+    },
+    {
+      "class_idx": 134,
+      "class_name": "class_134",
+      "total": 17,
+      "correct": 10,
+      "accuracy": 0.5882352941176471
+    },
+    {
+      "class_idx": 135,
+      "class_name": "class_135",
+      "total": 17,
+      "correct": 13,
+      "accuracy": 0.7647058823529411
+    },
+    {
+      "class_idx": 136,
+      "class_name": "class_136",
+      "total": 16,
+      "correct": 9,
+      "accuracy": 0.5625
+    },
+    {
+      "class_idx": 137,
+      "class_name": "class_137",
+      "total": 17,
+      "correct": 3,
+      "accuracy": 0.17647058823529413
+    },
+    {
+      "class_idx": 138,
+      "class_name": "class_138",
+      "total": 17,
+      "correct": 16,
+      "accuracy": 0.9411764705882353
+    },
+    {
+      "class_idx": 139,
+      "class_name": "class_139",
+      "total": 17,
+      "correct": 12,
+      "accuracy": 0.7058823529411765
+    },
+    {
+      "class_idx": 140,
+      "class_name": "class_140",
+      "total": 17,
+      "correct": 11,
+      "accuracy": 0.6470588235294118
+    },
+    {
+      "class_idx": 141,
+      "class_name": "class_141",
+      "total": 17,
+      "correct": 13,
+      "accuracy": 0.7647058823529411
+    },
+    {
+      "class_idx": 142,
+      "class_name": "class_142",
+      "total": 17,
+      "correct": 6,
+      "accuracy": 0.35294117647058826
+    },
+    {
+      "class_idx": 143,
+      "class_name": "class_143",
+      "total": 17,
+      "correct": 8,
+      "accuracy": 0.47058823529411764
+    },
+    {
+      "class_idx": 144,
+      "class_name": "class_144",
+      "total": 17,
+      "correct": 8,
+      "accuracy": 0.47058823529411764
+    },
+    {
+      "class_idx": 145,
+      "class_name": "class_145",
+      "total": 17,
+      "correct": 17,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 146,
+      "class_name": "class_146",
+      "total": 17,
+      "correct": 12,
+      "accuracy": 0.7058823529411765
+    },
+    {
+      "class_idx": 147,
+      "class_name": "class_147",
+      "total": 17,
+      "correct": 7,
+      "accuracy": 0.4117647058823529
+    },
+    {
+      "class_idx": 148,
+      "class_name": "class_148",
+      "total": 17,
+      "correct": 13,
+      "accuracy": 0.7647058823529411
+    },
+    {
+      "class_idx": 149,
+      "class_name": "class_149",
+      "total": 17,
+      "correct": 12,
+      "accuracy": 0.7058823529411765
+    },
+    {
+      "class_idx": 150,
+      "class_name": "class_150",
+      "total": 16,
+      "correct": 7,
+      "accuracy": 0.4375
+    },
+    {
+      "class_idx": 151,
+      "class_name": "class_151",
+      "total": 17,
+      "correct": 14,
+      "accuracy": 0.8235294117647058
+    },
+    {
+      "class_idx": 152,
+      "class_name": "class_152",
+      "total": 17,
+      "correct": 17,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 153,
+      "class_name": "class_153",
+      "total": 17,
+      "correct": 16,
+      "accuracy": 0.9411764705882353
+    },
+    {
+      "class_idx": 154,
+      "class_name": "class_154",
+      "total": 17,
+      "correct": 11,
+      "accuracy": 0.6470588235294118
+    },
+    {
+      "class_idx": 155,
+      "class_name": "class_155",
+      "total": 17,
+      "correct": 12,
+      "accuracy": 0.7058823529411765
+    },
+    {
+      "class_idx": 156,
+      "class_name": "class_156",
+      "total": 17,
+      "correct": 14,
+      "accuracy": 0.8235294117647058
+    },
+    {
+      "class_idx": 157,
+      "class_name": "class_157",
+      "total": 17,
+      "correct": 16,
+      "accuracy": 0.9411764705882353
+    },
+    {
+      "class_idx": 158,
+      "class_name": "class_158",
+      "total": 17,
+      "correct": 13,
+      "accuracy": 0.7647058823529411
+    },
+    {
+      "class_idx": 159,
+      "class_name": "class_159",
+      "total": 17,
+      "correct": 14,
+      "accuracy": 0.8235294117647058
+    },
+    {
+      "class_idx": 160,
+      "class_name": "class_160",
+      "total": 17,
+      "correct": 10,
+      "accuracy": 0.5882352941176471
+    },
+    {
+      "class_idx": 161,
+      "class_name": "class_161",
+      "total": 17,
+      "correct": 12,
+      "accuracy": 0.7058823529411765
+    },
+    {
+      "class_idx": 162,
+      "class_name": "class_162",
+      "total": 17,
+      "correct": 12,
+      "accuracy": 0.7058823529411765
+    },
+    {
+      "class_idx": 163,
+      "class_name": "class_163",
+      "total": 17,
+      "correct": 6,
+      "accuracy": 0.35294117647058826
+    },
+    {
+      "class_idx": 164,
+      "class_name": "class_164",
+      "total": 17,
+      "correct": 10,
+      "accuracy": 0.5882352941176471
+    },
+    {
+      "class_idx": 165,
+      "class_name": "class_165",
+      "total": 17,
+      "correct": 10,
+      "accuracy": 0.5882352941176471
+    },
+    {
+      "class_idx": 166,
+      "class_name": "class_166",
+      "total": 17,
+      "correct": 13,
+      "accuracy": 0.7647058823529411
+    },
+    {
+      "class_idx": 167,
+      "class_name": "class_167",
+      "total": 16,
+      "correct": 13,
+      "accuracy": 0.8125
+    },
+    {
+      "class_idx": 168,
+      "class_name": "class_168",
+      "total": 17,
+      "correct": 17,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 169,
+      "class_name": "class_169",
+      "total": 17,
+      "correct": 16,
+      "accuracy": 0.9411764705882353
+    },
+    {
+      "class_idx": 170,
+      "class_name": "class_170",
+      "total": 17,
+      "correct": 12,
+      "accuracy": 0.7058823529411765
+    },
+    {
+      "class_idx": 171,
+      "class_name": "class_171",
+      "total": 17,
+      "correct": 9,
+      "accuracy": 0.5294117647058824
+    },
+    {
+      "class_idx": 172,
+      "class_name": "class_172",
+      "total": 11,
+      "correct": 1,
+      "accuracy": 0.09090909090909091
+    },
+    {
+      "class_idx": 173,
+      "class_name": "class_173",
+      "total": 17,
+      "correct": 13,
+      "accuracy": 0.7647058823529411
+    },
+    {
+      "class_idx": 174,
+      "class_name": "class_174",
+      "total": 17,
+      "correct": 13,
+      "accuracy": 0.7647058823529411
+    },
+    {
+      "class_idx": 175,
+      "class_name": "class_175",
+      "total": 17,
+      "correct": 5,
+      "accuracy": 0.29411764705882354
+    },
+    {
+      "class_idx": 176,
+      "class_name": "class_176",
+      "total": 15,
+      "correct": 11,
+      "accuracy": 0.7333333333333333
+    },
+    {
+      "class_idx": 177,
+      "class_name": "class_177",
+      "total": 17,
+      "correct": 9,
+      "accuracy": 0.5294117647058824
+    },
+    {
+      "class_idx": 178,
+      "class_name": "class_178",
+      "total": 17,
+      "correct": 8,
+      "accuracy": 0.47058823529411764
+    },
+    {
+      "class_idx": 179,
+      "class_name": "class_179",
+      "total": 17,
+      "correct": 16,
+      "accuracy": 0.9411764705882353
+    },
+    {
+      "class_idx": 180,
+      "class_name": "class_180",
+      "total": 17,
+      "correct": 14,
+      "accuracy": 0.8235294117647058
+    },
+    {
+      "class_idx": 181,
+      "class_name": "class_181",
+      "total": 17,
+      "correct": 14,
+      "accuracy": 0.8235294117647058
+    },
+    {
+      "class_idx": 182,
+      "class_name": "class_182",
+      "total": 16,
+      "correct": 3,
+      "accuracy": 0.1875
+    },
+    {
+      "class_idx": 183,
+      "class_name": "class_183",
+      "total": 16,
+      "correct": 9,
+      "accuracy": 0.5625
+    },
+    {
+      "class_idx": 184,
+      "class_name": "class_184",
+      "total": 17,
+      "correct": 7,
+      "accuracy": 0.4117647058823529
+    },
+    {
+      "class_idx": 185,
+      "class_name": "class_185",
+      "total": 17,
+      "correct": 17,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 186,
+      "class_name": "class_186",
+      "total": 16,
+      "correct": 9,
+      "accuracy": 0.5625
+    },
+    {
+      "class_idx": 187,
+      "class_name": "class_187",
+      "total": 17,
+      "correct": 10,
+      "accuracy": 0.5882352941176471
+    },
+    {
+      "class_idx": 188,
+      "class_name": "class_188",
+      "total": 17,
+      "correct": 11,
+      "accuracy": 0.6470588235294118
+    },
+    {
+      "class_idx": 189,
+      "class_name": "class_189",
+      "total": 17,
+      "correct": 12,
+      "accuracy": 0.7058823529411765
+    },
+    {
+      "class_idx": 190,
+      "class_name": "class_190",
+      "total": 17,
+      "correct": 15,
+      "accuracy": 0.8823529411764706
+    },
+    {
+      "class_idx": 191,
+      "class_name": "class_191",
+      "total": 17,
+      "correct": 17,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 192,
+      "class_name": "class_192",
+      "total": 17,
+      "correct": 14,
+      "accuracy": 0.8235294117647058
+    },
+    {
+      "class_idx": 193,
+      "class_name": "class_193",
+      "total": 17,
+      "correct": 13,
+      "accuracy": 0.7647058823529411
+    },
+    {
+      "class_idx": 194,
+      "class_name": "class_194",
+      "total": 17,
+      "correct": 13,
+      "accuracy": 0.7647058823529411
+    },
+    {
+      "class_idx": 195,
+      "class_name": "class_195",
+      "total": 15,
+      "correct": 11,
+      "accuracy": 0.7333333333333333
+    },
+    {
+      "class_idx": 196,
+      "class_name": "class_196",
+      "total": 17,
+      "correct": 15,
+      "accuracy": 0.8823529411764706
+    },
+    {
+      "class_idx": 197,
+      "class_name": "class_197",
+      "total": 17,
+      "correct": 15,
+      "accuracy": 0.8823529411764706
+    },
+    {
+      "class_idx": 198,
+      "class_name": "class_198",
+      "total": 16,
+      "correct": 12,
+      "accuracy": 0.75
+    },
+    {
+      "class_idx": 199,
+      "class_name": "class_199",
+      "total": 17,
+      "correct": 15,
+      "accuracy": 0.8823529411764706
+    },
+    {
+      "class_idx": 200,
+      "class_name": "class_200",
+      "total": 17,
+      "correct": 10,
+      "accuracy": 0.5882352941176471
+    },
+    {
+      "class_idx": 201,
+      "class_name": "class_201",
+      "total": 17,
+      "correct": 14,
+      "accuracy": 0.8235294117647058
+    },
+    {
+      "class_idx": 202,
+      "class_name": "class_202",
+      "total": 16,
+      "correct": 16,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 203,
+      "class_name": "class_203",
+      "total": 17,
+      "correct": 10,
+      "accuracy": 0.5882352941176471
+    },
+    {
+      "class_idx": 204,
+      "class_name": "class_204",
+      "total": 17,
+      "correct": 11,
+      "accuracy": 0.6470588235294118
+    },
+    {
+      "class_idx": 205,
+      "class_name": "class_205",
+      "total": 17,
+      "correct": 5,
+      "accuracy": 0.29411764705882354
+    },
+    {
+      "class_idx": 206,
+      "class_name": "class_206",
+      "total": 14,
+      "correct": 8,
+      "accuracy": 0.5714285714285714
+    },
+    {
+      "class_idx": 207,
+      "class_name": "class_207",
+      "total": 17,
+      "correct": 10,
+      "accuracy": 0.5882352941176471
+    },
+    {
+      "class_idx": 208,
+      "class_name": "class_208",
+      "total": 17,
+      "correct": 8,
+      "accuracy": 0.47058823529411764
+    },
+    {
+      "class_idx": 209,
+      "class_name": "class_209",
+      "total": 17,
+      "correct": 11,
+      "accuracy": 0.6470588235294118
+    },
+    {
+      "class_idx": 210,
+      "class_name": "class_210",
+      "total": 17,
+      "correct": 13,
+      "accuracy": 0.7647058823529411
+    },
+    {
+      "class_idx": 211,
+      "class_name": "class_211",
+      "total": 14,
+      "correct": 7,
+      "accuracy": 0.5
+    },
+    {
+      "class_idx": 212,
+      "class_name": "class_212",
+      "total": 17,
+      "correct": 12,
+      "accuracy": 0.7058823529411765
+    },
+    {
+      "class_idx": 213,
+      "class_name": "class_213",
+      "total": 17,
+      "correct": 14,
+      "accuracy": 0.8235294117647058
+    },
+    {
+      "class_idx": 214,
+      "class_name": "class_214",
+      "total": 17,
+      "correct": 14,
+      "accuracy": 0.8235294117647058
+    },
+    {
+      "class_idx": 215,
+      "class_name": "class_215",
+      "total": 17,
+      "correct": 17,
+      "accuracy": 1.0
+    },
+    {
+      "class_idx": 216,
+      "class_name": "class_216",
+      "total": 17,
+      "correct": 7,
+      "accuracy": 0.4117647058823529
+    },
+    {
+      "class_idx": 217,
+      "class_name": "class_217",
+      "total": 17,
+      "correct": 11,
+      "accuracy": 0.6470588235294118
+    },
+    {
+      "class_idx": 218,
+      "class_name": "class_218",
+      "total": 17,
+      "correct": 13,
+      "accuracy": 0.7647058823529411
+    },
+    {
+      "class_idx": 219,
+      "class_name": "class_219",
+      "total": 17,
+      "correct": 11,
+      "accuracy": 0.6470588235294118
+    },
+    {
+      "class_idx": 220,
+      "class_name": "class_220",
+      "total": 17,
+      "correct": 13,
+      "accuracy": 0.7647058823529411
+    },
+    {
+      "class_idx": 221,
+      "class_name": "class_221",
+      "total": 17,
+      "correct": 6,
+      "accuracy": 0.35294117647058826
+    },
+    {
+      "class_idx": 222,
+      "class_name": "class_222",
+      "total": 17,
+      "correct": 16,
+      "accuracy": 0.9411764705882353
+    },
+    {
+      "class_idx": 223,
+      "class_name": "class_223",
+      "total": 17,
+      "correct": 15,
+      "accuracy": 0.8823529411764706
+    },
+    {
+      "class_idx": 224,
+      "class_name": "class_224",
+      "total": 17,
+      "correct": 14,
+      "accuracy": 0.8235294117647058
+    },
+    {
+      "class_idx": 225,
+      "class_name": "class_225",
+      "total": 17,
+      "correct": 10,
+      "accuracy": 0.5882352941176471
+    }
+  ],
+  "macro_avg": {
+    "precision": 0.7220378293352459,
+    "recall": 0.6975994701983771,
+    "f1-score": 0.6936156157771154,
+    "support": 3741.0
+  },
+  "weighted_avg": {
+    "precision": 0.7242108779656288,
+    "recall": 0.6992782678428228,
+    "f1-score": 0.6958754158308602,
+    "support": 3741.0
+  }
+}

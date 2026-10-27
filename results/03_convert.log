@@ -1,0 +1,10 @@
+[2026-04-20 23:56:20] [convert_yolo] [INFO] WLASL YOLO-cls: skipped (requiere videos locales)
+[2026-04-20 23:58:20] [convert_yolo] [INFO] AUTSL train: 28132 creadas, 0 ya existían, 0 errores
+[2026-04-20 23:58:39] [convert_yolo] [INFO] AUTSL val: 4418 creadas, 0 ya existían, 0 errores
+[2026-04-20 23:58:55] [convert_yolo] [INFO] AUTSL test: 3741 creadas, 0 ya existían, 0 errores
+[2026-04-20 23:58:55] [convert_yolo] [INFO]   Indexando videos LSP...
+[2026-04-20 23:58:55] [convert_yolo] [INFO]   3684 videos indexados
+[2026-04-20 23:58:58] [convert_yolo] [INFO] LSP train: 1798 creadas, 0 ya existían, 0 errores
+[2026-04-20 23:58:59] [convert_yolo] [INFO] LSP val: 423 creadas, 0 ya existían, 0 errores
+[2026-04-20 23:59:00] [convert_yolo] [INFO] LSP test: 572 creadas, 0 ya existían, 0 errores
+[2026-04-20 23:59:00] [convert_yolo] [INFO] ✓ Conversión a formato YOLO completada.

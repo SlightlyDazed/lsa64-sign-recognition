@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Datasets and extracted landmarks (not distributed)
+all/
+data/
+*.zip
+*.tar.gz
+
+# Downloaded models and generated media
+*.task
+yolo*.pt
+results/debug_landmarks.mp4
+results/lsa64_confusion_eval.png

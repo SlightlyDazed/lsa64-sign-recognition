@@ -1,0 +1,371 @@
+[2026-04-19 16:09:30] [preprocess] [INFO] ==================================================
+[2026-04-19 16:09:30] [preprocess] [INFO] Preprocesando WLASL
+[2026-04-19 16:09:30] [preprocess] [INFO] ==================================================
+[2026-04-19 16:09:30] [preprocess] [INFO]   nslt_100: 2038 entradas
+[2026-04-19 16:09:31] [preprocess] [INFO]   Videos locales encontrados: 0
+[2026-04-19 16:09:31] [preprocess] [WARNING]   No se encontraron videos locales de WLASL.
+[2026-04-19 16:09:31] [preprocess] [WARNING]   Para usar WLASL, descarga los videos primero.
+[2026-04-19 16:09:31] [preprocess] [WARNING]   Saltando WLASL...
+[2026-04-19 16:09:31] [preprocess] [INFO] ==================================================
+[2026-04-19 16:09:31] [preprocess] [INFO] Preprocesando AUTSL
+[2026-04-19 16:09:31] [preprocess] [INFO] ==================================================
+[2026-04-19 16:09:31] [preprocess] [INFO]   Base AUTSL: data/raw/autsl/AUTSL
+[2026-04-19 16:09:32] [preprocess] [INFO]   train: 28142 entradas en CSV
+[2026-04-19 16:09:37] [preprocess] [WARNING]   Error en signer0_sample1_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:37] [preprocess] [WARNING]   Error en signer0_sample2_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:37] [preprocess] [WARNING]   Error en signer0_sample3_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:37] [preprocess] [WARNING]   Error en signer0_sample4_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:37] [preprocess] [WARNING]   Error en signer0_sample5_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:37] [preprocess] [WARNING]   Error en signer0_sample6_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:37] [preprocess] [WARNING]   Error en signer0_sample7_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:37] [preprocess] [WARNING]   Error en signer0_sample8_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:37] [preprocess] [WARNING]   Error en signer0_sample9_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:37] [preprocess] [WARNING]   Error en signer0_sample10_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:37] [preprocess] [WARNING]   Error en signer0_sample11_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:37] [preprocess] [WARNING]   Error en signer0_sample12_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:37] [preprocess] [WARNING]   Error en signer0_sample13_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:37] [preprocess] [WARNING]   Error en signer0_sample14_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:37] [preprocess] [WARNING]   Error en signer0_sample15_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:37] [preprocess] [WARNING]   Error en signer0_sample16_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:37] [preprocess] [WARNING]   Error en signer0_sample17_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:37] [preprocess] [WARNING]   Error en signer0_sample18_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:37] [preprocess] [WARNING]   Error en signer0_sample19_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:37] [preprocess] [WARNING]   Error en signer0_sample20_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:37] [preprocess] [WARNING]   Error en signer0_sample21_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:37] [preprocess] [WARNING]   Error en signer0_sample22_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:37] [preprocess] [WARNING]   Error en signer0_sample23_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:37] [preprocess] [WARNING]   Error en signer0_sample24_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:37] [preprocess] [WARNING]   Error en signer0_sample25_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:37] [preprocess] [WARNING]   Error en signer0_sample26_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample27_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample28_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample29_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample30_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample31_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample32_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample33_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample34_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample35_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample36_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample37_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample38_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample39_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample40_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample41_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample42_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample43_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample44_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample45_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample46_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample47_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample48_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample49_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample50_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample51_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample52_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample53_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample54_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample55_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample56_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample57_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample58_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample59_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample60_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample61_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample62_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample63_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample64_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample65_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample66_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample67_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample68_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:38] [preprocess] [WARNING]   Error en signer0_sample69_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample70_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample71_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample72_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample73_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample74_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample75_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample76_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample77_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample78_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample79_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample80_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample81_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample82_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample83_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample84_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample85_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample86_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample87_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample88_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample89_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample90_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample91_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample92_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample93_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample94_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample95_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample96_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample97_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample98_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample99_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample100_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample101_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample102_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample103_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample104_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample105_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample106_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:09:39] [preprocess] [WARNING]   Error en signer0_sample107_color.mp4: module 'mediapipe' has no attribute 'solutions'
+[2026-04-19 16:12:02] [preprocess] [INFO] ==================================================
+[2026-04-19 16:12:02] [preprocess] [INFO] Preprocesando WLASL
+[2026-04-19 16:12:02] [preprocess] [INFO] ==================================================
+[2026-04-19 16:12:02] [preprocess] [INFO]   nslt_100: 2038 entradas
+[2026-04-19 16:12:02] [preprocess] [INFO]   Videos locales encontrados: 0
+[2026-04-19 16:12:02] [preprocess] [WARNING]   No se encontraron videos locales de WLASL.
+[2026-04-19 16:12:02] [preprocess] [WARNING]   Para usar WLASL, descarga los videos primero.
+[2026-04-19 16:12:02] [preprocess] [WARNING]   Saltando WLASL...
+[2026-04-19 16:12:02] [preprocess] [INFO] ==================================================
+[2026-04-19 16:12:02] [preprocess] [INFO] Preprocesando AUTSL
+[2026-04-19 16:12:02] [preprocess] [INFO] ==================================================
+[2026-04-19 16:12:02] [preprocess] [INFO]   Base AUTSL: data/raw/autsl/AUTSL
+[2026-04-19 16:12:02] [preprocess] [INFO]   train: 28142 entradas en CSV
+[2026-04-19 16:47:38] [preprocess] [INFO]   Concurrent videos: 8
+[2026-04-19 16:47:38] [preprocess] [INFO]   YOLO imgsz: 640
+[2026-04-19 16:47:38] [preprocess] [INFO]   Hands: True
+[2026-04-19 16:47:38] [preprocess] [INFO] ==================================================
+[2026-04-19 16:47:38] [preprocess] [INFO] Preprocesando AUTSL (GPU concurrente)
+[2026-04-19 16:47:38] [preprocess] [INFO] ==================================================
+[2026-04-19 16:47:38] [preprocess] [INFO]   Base: data/raw/autsl/AUTSL
+[2026-04-19 16:47:39] [preprocess] [INFO]   train: 28142 entradas
+[2026-04-19 16:47:39] [preprocess] [INFO]   train: 30 pendientes
+[2026-04-19 16:50:07] [preprocess] [INFO]   AUTSL train: 30 OK, 0 fallos
+[2026-04-19 16:50:07] [preprocess] [INFO]   val: 4418 entradas
+[2026-04-19 16:50:07] [preprocess] [INFO]   val: 30 pendientes
+[2026-04-19 16:51:13] [preprocess] [INFO]   AUTSL val: 30 OK, 0 fallos
+[2026-04-19 16:51:13] [preprocess] [INFO]   test: 3742 entradas
+[2026-04-19 16:51:13] [preprocess] [INFO]   test: 30 pendientes
+[2026-04-19 16:51:52] [preprocess] [INFO]   AUTSL test: 30 OK, 0 fallos
+[2026-04-19 16:51:52] [preprocess] [INFO] ✓ Preprocesamiento completado.
+[2026-04-19 16:53:33] [preprocess] [INFO]   Concurrent videos: 8
+[2026-04-19 16:53:33] [preprocess] [INFO]   YOLO imgsz: 640
+[2026-04-19 16:53:33] [preprocess] [INFO]   Hands: True
+[2026-04-19 16:53:33] [preprocess] [INFO] ==================================================
+[2026-04-19 16:53:33] [preprocess] [INFO] Preprocesando AUTSL (GPU concurrente)
+[2026-04-19 16:53:33] [preprocess] [INFO] ==================================================
+[2026-04-19 16:53:33] [preprocess] [INFO]   Base: data/raw/autsl/AUTSL
+[2026-04-19 16:53:34] [preprocess] [INFO]   train: 28142 entradas
+[2026-04-19 16:53:35] [preprocess] [INFO]   train: 25924 pendientes
+[2026-04-19 16:57:22] [preprocess] [INFO]   Concurrent videos: 10
+[2026-04-19 16:57:22] [preprocess] [INFO]   YOLO imgsz: 1280
+[2026-04-19 16:57:22] [preprocess] [INFO]   Hands: True
+[2026-04-19 16:57:22] [preprocess] [INFO] ==================================================
+[2026-04-19 16:57:22] [preprocess] [INFO] Preprocesando AUTSL (GPU concurrente)
+[2026-04-19 16:57:22] [preprocess] [INFO] ==================================================
+[2026-04-19 16:57:22] [preprocess] [INFO]   Base: data/raw/autsl/AUTSL
+[2026-04-19 16:57:26] [preprocess] [INFO]   train: 28142 entradas
+[2026-04-19 16:57:26] [preprocess] [INFO]   train: 28142 pendientes
+[2026-04-19 17:04:42] [preprocess] [INFO]   Concurrent videos: 10
+[2026-04-19 17:04:42] [preprocess] [INFO]   YOLO imgsz: 640
+[2026-04-19 17:04:42] [preprocess] [INFO]   Hands: True
+[2026-04-19 17:04:42] [preprocess] [INFO] ==================================================
+[2026-04-19 17:04:42] [preprocess] [INFO] Preprocesando AUTSL (GPU concurrente)
+[2026-04-19 17:04:42] [preprocess] [INFO] ==================================================
+[2026-04-19 17:04:42] [preprocess] [INFO]   Base: data/raw/autsl/AUTSL
+[2026-04-19 17:04:43] [preprocess] [INFO]   train: 28142 entradas
+[2026-04-19 17:04:43] [preprocess] [INFO]   train: 28142 pendientes
+[2026-04-19 17:23:12] [preprocess] [INFO]   Modelo: yolo11x-pose.pt
+[2026-04-19 17:23:12] [preprocess] [INFO]   Hands: True
+[2026-04-19 17:23:12] [preprocess] [INFO]   Max frames/video: 64
+[2026-04-19 17:23:12] [preprocess] [INFO] ==================================================
+[2026-04-19 17:23:12] [preprocess] [INFO] Preprocesando AUTSL
+[2026-04-19 17:23:12] [preprocess] [INFO] ==================================================
+[2026-04-19 17:23:12] [preprocess] [INFO]   Base: data/raw/autsl/AUTSL
+[2026-04-19 17:23:34] [preprocess] [INFO]   ✓ YOLO warm-up completo
+[2026-04-19 17:23:34] [preprocess] [INFO]   train: 28142 entradas
+[2026-04-19 17:23:34] [preprocess] [INFO]   train: 10 pendientes
+[2026-04-19 17:26:35] [preprocess] [INFO]   Modelo: yolo11x-pose.pt
+[2026-04-19 17:26:35] [preprocess] [INFO]   Hands: True
+[2026-04-19 17:26:35] [preprocess] [INFO]   Max frames/video: 64
+[2026-04-19 17:26:35] [preprocess] [INFO] ==================================================
+[2026-04-19 17:26:35] [preprocess] [INFO] Preprocesando AUTSL
+[2026-04-19 17:26:35] [preprocess] [INFO] ==================================================
+[2026-04-19 17:26:35] [preprocess] [INFO]   Base: data/raw/autsl/AUTSL
+[2026-04-19 17:26:37] [preprocess] [INFO]   ✓ YOLO warm-up completo
+[2026-04-19 17:26:37] [preprocess] [INFO]   train: 28142 entradas
+[2026-04-19 17:26:37] [preprocess] [INFO]   train: 10 pendientes
+[2026-04-19 18:07:59] [preprocess] [INFO]   Modelo: yolo11x-pose.pt
+[2026-04-19 18:07:59] [preprocess] [INFO]   Hands: True
+[2026-04-19 18:07:59] [preprocess] [INFO]   Max frames/video: 64
+[2026-04-19 18:08:00] [preprocess] [INFO]   ✓ YOLO warm-up completo (ROCm kernels compilados)
+[2026-04-19 18:08:00] [preprocess] [INFO] ==================================================
+[2026-04-19 18:08:00] [preprocess] [INFO] Preprocesando WLASL
+[2026-04-19 18:08:00] [preprocess] [INFO] ==================================================
+[2026-04-19 18:08:00] [preprocess] [WARNING]   WLASL sin videos locales, saltando...
+[2026-04-19 18:08:00] [preprocess] [INFO] ==================================================
+[2026-04-19 18:08:00] [preprocess] [INFO] Preprocesando AUTSL
+[2026-04-19 18:08:00] [preprocess] [INFO] ==================================================
+[2026-04-19 18:08:00] [preprocess] [INFO]   Base: data/raw/autsl/AUTSL
+[2026-04-19 18:08:00] [preprocess] [INFO]   train: 28142 entradas en CSV
+[2026-04-19 18:08:00] [preprocess] [INFO]   train: 100 pendientes
+[2026-04-19 18:16:45] [preprocess] [INFO]   Modelo: yolo11x-pose.pt
+[2026-04-19 18:16:45] [preprocess] [INFO]   Hands: True
+[2026-04-19 18:16:45] [preprocess] [INFO]   Max frames/video: 64
+[2026-04-19 18:16:47] [preprocess] [INFO]   ✓ YOLO warm-up completo (ROCm kernels compilados)
+[2026-04-19 18:16:47] [preprocess] [INFO] ==================================================
+[2026-04-19 18:16:47] [preprocess] [INFO] Preprocesando AUTSL
+[2026-04-19 18:16:47] [preprocess] [INFO] ==================================================
+[2026-04-19 18:16:47] [preprocess] [INFO]   Base: data/raw/autsl/AUTSL
+[2026-04-19 18:16:47] [preprocess] [INFO]   train: 28142 entradas en CSV
+[2026-04-19 18:16:47] [preprocess] [INFO]   train: 5 pendientes
+[2026-04-19 18:19:58] [preprocess] [INFO]   AUTSL train: 5 OK, 0 fallos
+[2026-04-19 18:19:58] [preprocess] [INFO]   val: 4418 entradas en CSV
+[2026-04-19 18:19:58] [preprocess] [INFO]   val: 5 pendientes
+[2026-04-19 18:24:19] [preprocess] [INFO]   AUTSL val: 5 OK, 0 fallos
+[2026-04-19 18:24:19] [preprocess] [INFO]   test: 3742 entradas en CSV
+[2026-04-19 18:24:19] [preprocess] [INFO]   test: 5 pendientes
+[2026-04-19 18:24:32] [preprocess] [INFO]   AUTSL test: 5 OK, 0 fallos
+[2026-04-19 18:24:32] [preprocess] [INFO] ✓ Preprocesamiento completado.
+[2026-04-19 18:27:00] [preprocess] [INFO]   Modelo: yolo11x-pose.pt
+[2026-04-19 18:27:00] [preprocess] [INFO]   Hands: True
+[2026-04-19 18:27:00] [preprocess] [INFO]   Max frames/video: 64
+[2026-04-19 18:27:02] [preprocess] [INFO]   ✓ YOLO warm-up completo (ROCm kernels compilados)
+[2026-04-19 18:27:02] [preprocess] [INFO] ==================================================
+[2026-04-19 18:27:02] [preprocess] [INFO] Preprocesando AUTSL
+[2026-04-19 18:27:02] [preprocess] [INFO] ==================================================
+[2026-04-19 18:27:02] [preprocess] [INFO]   Base: data/raw/autsl/AUTSL
+[2026-04-19 18:27:02] [preprocess] [INFO]   train: 28142 entradas en CSV
+[2026-04-19 18:27:02] [preprocess] [INFO]   train: 5 pendientes
+[2026-04-19 18:32:25] [preprocess] [INFO]   AUTSL train: 5 OK, 0 fallos
+[2026-04-19 18:32:25] [preprocess] [INFO]   val: 4418 entradas en CSV
+[2026-04-19 18:32:25] [preprocess] [INFO]   val: 5 pendientes
+[2026-04-19 18:35:25] [preprocess] [INFO]   AUTSL val: 5 OK, 0 fallos
+[2026-04-19 18:35:25] [preprocess] [INFO]   test: 3742 entradas en CSV
+[2026-04-19 18:35:25] [preprocess] [INFO]   test: 5 pendientes
+[2026-04-19 18:37:24] [preprocess] [INFO]   AUTSL test: 5 OK, 0 fallos
+[2026-04-19 18:37:24] [preprocess] [INFO] ✓ Preprocesamiento completado.
+[2026-04-19 18:37:57] [preprocess] [INFO]   Modelo: yolo11l-pose.pt
+[2026-04-19 18:37:57] [preprocess] [INFO]   Hands: True
+[2026-04-19 18:37:57] [preprocess] [INFO]   Max frames/video: 64
+[2026-04-19 18:38:08] [preprocess] [INFO]   ✓ YOLO warm-up completo (ROCm kernels compilados)
+[2026-04-19 18:38:08] [preprocess] [INFO] ==================================================
+[2026-04-19 18:38:08] [preprocess] [INFO] Preprocesando AUTSL
+[2026-04-19 18:38:08] [preprocess] [INFO] ==================================================
+[2026-04-19 18:38:08] [preprocess] [INFO]   Base: data/raw/autsl/AUTSL
+[2026-04-19 18:38:08] [preprocess] [INFO]   train: 28142 entradas en CSV
+[2026-04-19 18:38:08] [preprocess] [INFO]   train: 5 pendientes
+[2026-04-19 18:40:25] [preprocess] [INFO]   AUTSL train: 5 OK, 0 fallos
+[2026-04-19 18:40:25] [preprocess] [INFO]   val: 4418 entradas en CSV
+[2026-04-19 18:40:25] [preprocess] [INFO]   val: 5 pendientes
+[2026-04-19 18:40:59] [preprocess] [INFO]   AUTSL val: 5 OK, 0 fallos
+[2026-04-19 18:40:59] [preprocess] [INFO]   test: 3742 entradas en CSV
+[2026-04-19 18:40:59] [preprocess] [INFO]   test: 5 pendientes
+[2026-04-19 18:41:45] [preprocess] [INFO]   AUTSL test: 5 OK, 0 fallos
+[2026-04-19 18:41:45] [preprocess] [INFO] ✓ Preprocesamiento completado.
+[2026-04-19 18:46:20] [preprocess] [INFO]   Modelo: yolo11l-pose.pt
+[2026-04-19 18:46:20] [preprocess] [INFO]   Hands: True
+[2026-04-19 18:46:20] [preprocess] [INFO]   Max frames/video: 64
+[2026-04-19 18:46:22] [preprocess] [INFO]   ✓ YOLO warm-up completo (ROCm kernels compilados)
+[2026-04-19 18:46:22] [preprocess] [INFO] ==================================================
+[2026-04-19 18:46:22] [preprocess] [INFO] Preprocesando AUTSL
+[2026-04-19 18:46:22] [preprocess] [INFO] ==================================================
+[2026-04-19 18:46:22] [preprocess] [INFO]   Base: data/raw/autsl/AUTSL
+[2026-04-19 18:46:22] [preprocess] [INFO]   train: 28142 entradas en CSV
+[2026-04-19 18:46:22] [preprocess] [INFO]   train: 5 pendientes
+[2026-04-19 18:47:55] [preprocess] [INFO]   AUTSL train: 5 OK, 0 fallos
+[2026-04-19 18:47:55] [preprocess] [INFO]   val: 4418 entradas en CSV
+[2026-04-19 18:47:55] [preprocess] [INFO]   val: 5 pendientes
+[2026-04-19 18:48:40] [preprocess] [INFO]   AUTSL val: 5 OK, 0 fallos
+[2026-04-19 18:48:40] [preprocess] [INFO]   test: 3742 entradas en CSV
+[2026-04-19 18:48:40] [preprocess] [INFO]   test: 5 pendientes
+[2026-04-19 18:49:10] [preprocess] [INFO]   AUTSL test: 5 OK, 0 fallos
+[2026-04-19 18:49:10] [preprocess] [INFO] ✓ Preprocesamiento completado.
+[2026-04-19 18:52:12] [preprocess] [INFO]   Modelo: yolo11l-pose.pt
+[2026-04-19 18:52:12] [preprocess] [INFO]   Hands: True
+[2026-04-19 18:52:12] [preprocess] [INFO]   Max frames/video: 64
+[2026-04-19 18:52:13] [preprocess] [INFO]   ✓ YOLO warm-up completo (ROCm kernels compilados)
+[2026-04-19 18:52:13] [preprocess] [INFO] ==================================================
+[2026-04-19 18:52:13] [preprocess] [INFO] Preprocesando AUTSL
+[2026-04-19 18:52:13] [preprocess] [INFO] ==================================================
+[2026-04-19 18:52:13] [preprocess] [INFO]   Base: data/raw/autsl/AUTSL
+[2026-04-19 18:52:13] [preprocess] [INFO]   train: 28142 entradas en CSV
+[2026-04-19 18:52:13] [preprocess] [INFO]   train: 5 pendientes
+[2026-04-19 18:52:22] [preprocess] [INFO]   AUTSL train: 5 OK, 0 fallos
+[2026-04-19 18:52:22] [preprocess] [INFO]   val: 4418 entradas en CSV
+[2026-04-19 18:52:22] [preprocess] [INFO]   val: 5 pendientes
+[2026-04-19 18:52:30] [preprocess] [INFO]   AUTSL val: 5 OK, 0 fallos
+[2026-04-19 18:52:30] [preprocess] [INFO]   test: 3742 entradas en CSV
+[2026-04-19 18:52:30] [preprocess] [INFO]   test: 5 pendientes
+[2026-04-19 18:52:38] [preprocess] [INFO]   AUTSL test: 5 OK, 0 fallos
+[2026-04-19 18:52:38] [preprocess] [INFO] ✓ Preprocesamiento completado.
+[2026-04-19 18:53:19] [preprocess] [INFO]   Modelo: yolo11l-pose.pt
+[2026-04-19 18:53:19] [preprocess] [INFO]   Hands: True
+[2026-04-19 18:53:19] [preprocess] [INFO]   Max frames/video: 64
+[2026-04-19 18:53:20] [preprocess] [INFO]   ✓ YOLO warm-up completo (ROCm kernels compilados)
+[2026-04-19 18:53:20] [preprocess] [INFO] ==================================================
+[2026-04-19 18:53:20] [preprocess] [INFO] Preprocesando WLASL
+[2026-04-19 18:53:20] [preprocess] [INFO] ==================================================
+[2026-04-19 18:53:20] [preprocess] [WARNING]   WLASL sin videos locales, saltando...
+[2026-04-19 18:53:20] [preprocess] [INFO] ==================================================
+[2026-04-19 18:53:20] [preprocess] [INFO] Preprocesando AUTSL
+[2026-04-19 18:53:20] [preprocess] [INFO] ==================================================
+[2026-04-19 18:53:20] [preprocess] [INFO]   Base: data/raw/autsl/AUTSL
+[2026-04-19 18:53:20] [preprocess] [INFO]   train: 28142 entradas en CSV
+[2026-04-19 18:53:20] [preprocess] [INFO]   train: 28102 pendientes
+[2026-04-19 20:00:15] [preprocess] [WARNING]   No se pudo abrir: signer2_sample1161_color.mp4
+[2026-04-19 20:10:16] [preprocess] [WARNING]   No se pudo abrir: signer3_sample152_color.mp4
+[2026-04-19 21:05:07] [preprocess] [WARNING]   No se pudo abrir: signer5_sample618_color.mp4
+[2026-04-19 22:46:39] [preprocess] [WARNING]   No se pudo abrir: signer8_sample1406_color.mp4
+[2026-04-20 01:41:48] [preprocess] [WARNING]   No se pudo abrir: signer15_sample276_color.mp4
+[2026-04-20 02:26:15] [preprocess] [WARNING]   No se pudo abrir: signer20_sample424_color.mp4
+[2026-04-20 03:04:54] [preprocess] [WARNING]   No se pudo abrir: signer22_sample612_color.mp4
+[2026-04-20 05:28:12] [preprocess] [WARNING]   No se pudo abrir: signer36_sample356_color.mp4
+[2026-04-20 06:34:06] [preprocess] [WARNING]   No se pudo abrir: signer41_sample25_color.mp4
+[2026-04-20 07:07:03] [preprocess] [WARNING]   No se pudo abrir: signer42_sample647_color.mp4
+[2026-04-20 07:07:43] [preprocess] [INFO]   AUTSL train: 28092 OK, 10 fallos
+[2026-04-20 07:07:43] [preprocess] [INFO]   val: 4418 entradas en CSV
+[2026-04-20 07:07:43] [preprocess] [INFO]   val: 4393 pendientes
+[2026-04-20 08:58:01] [preprocess] [INFO]   AUTSL val: 4393 OK, 0 fallos
+[2026-04-20 08:58:01] [preprocess] [INFO]   test: 3742 entradas en CSV
+[2026-04-20 08:58:01] [preprocess] [INFO]   test: 3717 pendientes
+[2026-04-20 09:17:56] [preprocess] [WARNING]   No se pudo abrir: signer6_sample185_color.mp4
+[2026-04-20 10:31:32] [preprocess] [INFO]   AUTSL test: 3716 OK, 1 fallos
+[2026-04-20 10:31:32] [preprocess] [INFO] ==================================================
+[2026-04-20 10:31:32] [preprocess] [INFO] Preprocesando LSP PUCP
+[2026-04-20 10:31:32] [preprocess] [INFO] ==================================================
+[2026-04-20 10:31:32] [preprocess] [INFO]   Clases: 274, videos: 2727
+[2026-04-20 10:31:32] [preprocess] [INFO]   train: 1798 videos
+[2026-04-20 10:31:32] [preprocess] [INFO]   val: 423 videos
+[2026-04-20 10:31:32] [preprocess] [INFO]   test: 572 videos
+[2026-04-20 10:31:32] [preprocess] [INFO]   train: 1798 pendientes
+[2026-04-20 10:45:00] [preprocess] [INFO]   LSP train: 1798 procesados
+[2026-04-20 10:45:00] [preprocess] [INFO]   val: 423 pendientes
+[2026-04-20 10:48:12] [preprocess] [INFO]   LSP val: 423 procesados
+[2026-04-20 10:48:12] [preprocess] [INFO]   test: 572 pendientes
+[2026-04-20 10:52:40] [preprocess] [INFO]   LSP test: 572 procesados
+[2026-04-20 10:52:40] [preprocess] [INFO] ✓ Preprocesamiento completado.
+[2026-07-13 12:14:00] [preprocess] [INFO]   Modelo: yolo11l-pose.pt
+[2026-07-13 12:14:00] [preprocess] [INFO]   Hands: True
+[2026-07-13 12:14:00] [preprocess] [INFO]   Max frames/video: 64
+[2026-07-13 12:14:02] [preprocess] [INFO]   ✓ YOLO warm-up completo (ROCm kernels compilados)
+[2026-07-13 12:14:02] [preprocess] [INFO] ==================================================
+[2026-07-13 12:14:02] [preprocess] [INFO] Preprocesando AUTSL
+[2026-07-13 12:14:02] [preprocess] [INFO] ==================================================
+[2026-07-13 12:14:02] [preprocess] [INFO]   Base: data/raw/autsl/AUTSL
+[2026-07-13 12:14:02] [preprocess] [INFO]   train: 28142 entradas en CSV
+[2026-07-13 12:14:02] [preprocess] [INFO]   train: 28142 pendientes
+[2026-07-13 12:41:32] [preprocess] [INFO]   Modelo: yolo11l-pose.pt
+[2026-07-13 12:41:32] [preprocess] [INFO]   Hands: True
+[2026-07-13 12:41:32] [preprocess] [INFO]   Max frames/video: 64
+[2026-07-13 12:41:34] [preprocess] [INFO]   ✓ YOLO warm-up completo (ROCm kernels compilados)
+[2026-07-13 12:41:34] [preprocess] [INFO] ==================================================
+[2026-07-13 12:41:34] [preprocess] [INFO] Preprocesando AUTSL
+[2026-07-13 12:41:34] [preprocess] [INFO] ==================================================
+[2026-07-13 12:41:34] [preprocess] [INFO]   Base: data/raw/autsl/AUTSL
+[2026-07-13 12:41:34] [preprocess] [INFO]   train: 28142 entradas en CSV
+[2026-07-13 12:41:34] [preprocess] [INFO]   train: 27057 pendientes
+[2026-07-13 12:46:14] [preprocess] [WARNING]   No se pudo abrir: signer2_sample1161_color.mp4
+[2026-07-13 12:47:23] [preprocess] [WARNING]   No se pudo abrir: signer3_sample152_color.mp4
+[2026-07-13 12:53:06] [preprocess] [WARNING]   No se pudo abrir: signer5_sample618_color.mp4
+[2026-07-13 13:03:23] [preprocess] [WARNING]   No se pudo abrir: signer8_sample1406_color.mp4

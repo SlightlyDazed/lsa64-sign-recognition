@@ -1,0 +1,57 @@
+[2026-04-19 16:07:55] [extract] [INFO] ============================================================
+[2026-04-19 16:07:55] [extract] [INFO] ETAPA 1: Descompresión de Datasets
+[2026-04-19 16:07:55] [extract] [INFO] ============================================================
+[2026-04-19 16:07:55] [extract] [INFO] [WLASL] Extrayendo WLASL-master.zip → data/raw/wlasl
+[2026-04-19 16:07:55] [extract] [INFO] [WLASL] ✓ Extracción completa: 66 archivos
+[2026-04-19 16:07:55] [extract] [INFO] [AUTSL] Extrayendo archive.zip → data/raw/autsl
+[2026-04-19 16:08:00] [extract] [INFO]   [AUTSL] 5000/36305 archivos extraídos...
+[2026-04-19 16:08:05] [extract] [INFO]   [AUTSL] 10000/36305 archivos extraídos...
+[2026-04-19 16:08:08] [extract] [INFO]   [AUTSL] 15000/36305 archivos extraídos...
+[2026-04-19 16:08:12] [extract] [INFO]   [AUTSL] 20000/36305 archivos extraídos...
+[2026-04-19 16:08:18] [extract] [INFO]   [AUTSL] 25000/36305 archivos extraídos...
+[2026-04-19 16:08:23] [extract] [INFO]   [AUTSL] 30000/36305 archivos extraídos...
+[2026-04-19 16:08:27] [extract] [INFO]   [AUTSL] 35000/36305 archivos extraídos...
+[2026-04-19 16:08:28] [extract] [INFO] [AUTSL] ✓ Extracción completa: 36305 archivos
+[2026-04-19 16:08:28] [extract] [INFO] [LSP-Videos] Extrayendo XXXX_LSP_peru1235_Videos.tar → data/raw/lsp_pucp
+[2026-04-19 16:08:29] [extract] [INFO]   [LSP-Videos] 2000/3741 archivos extraídos...
+[2026-04-19 16:08:30] [extract] [INFO] [LSP-Videos] ✓ Extracción completa: 3741 archivos
+[2026-04-19 16:08:30] [extract] [INFO] [LSP-Keypoints] Ya extraído en data/raw/lsp_pucp, saltando...
+[2026-04-19 16:08:30] [extract] [INFO] [LSP-SRT] Ya extraído en data/raw/lsp_pucp, saltando...
+[2026-04-19 16:08:30] [extract] [INFO] ============================================================
+[2026-04-19 16:08:30] [extract] [INFO] INVENTARIO DE DATASETS
+[2026-04-19 16:08:30] [extract] [INFO] ============================================================
+[2026-04-19 16:08:30] [extract] [INFO] [WLASL] 2000 glosses, 21083 instancias de video
+[2026-04-19 16:08:30] [extract] [INFO]   -> nslt_100.json: 2038 entradas
+[2026-04-19 16:08:30] [extract] [INFO]   -> nslt_1000.json: 13174 entradas
+[2026-04-19 16:08:30] [extract] [INFO]   -> nslt_2000.json: 21095 entradas
+[2026-04-19 16:08:30] [extract] [INFO]   -> nslt_300.json: 5118 entradas
+[2026-04-19 16:08:30] [extract] [INFO] [AUTSL] train: 28142 videos, 226 clases
+[2026-04-19 16:08:30] [extract] [INFO] [AUTSL] val: 4418 videos, 226 clases
+[2026-04-19 16:08:30] [extract] [INFO] [AUTSL] test: 3742 videos, 226 clases
+[2026-04-19 16:08:30] [extract] [INFO] [AUTSL] Total videos MP4: 36302
+[2026-04-19 16:08:30] [extract] [INFO] [LSP PUCP] 27 historias, 3684 videos segmentados, 1082 señas únicas
+[2026-04-19 16:08:30] [extract] [INFO] ============================================================
+[2026-04-19 16:08:30] [extract] [INFO] ✓ Etapa 1 completada.
+[2026-04-19 16:09:29] [extract] [INFO] ============================================================
+[2026-04-19 16:09:29] [extract] [INFO] ETAPA 1: Descompresión de Datasets
+[2026-04-19 16:09:29] [extract] [INFO] ============================================================
+[2026-04-19 16:09:29] [extract] [INFO] [WLASL] Ya extraído en data/raw/wlasl, saltando...
+[2026-04-19 16:09:29] [extract] [INFO] [AUTSL] Ya extraído en data/raw/autsl, saltando...
+[2026-04-19 16:09:29] [extract] [INFO] [LSP-Videos] Ya extraído en data/raw/lsp_pucp, saltando...
+[2026-04-19 16:09:29] [extract] [INFO] [LSP-Keypoints] Ya extraído en data/raw/lsp_pucp, saltando...
+[2026-04-19 16:09:29] [extract] [INFO] [LSP-SRT] Ya extraído en data/raw/lsp_pucp, saltando...
+[2026-04-19 16:09:29] [extract] [INFO] ============================================================
+[2026-04-19 16:09:29] [extract] [INFO] INVENTARIO DE DATASETS
+[2026-04-19 16:09:29] [extract] [INFO] ============================================================
+[2026-04-19 16:09:29] [extract] [INFO] [WLASL] 2000 glosses, 21083 instancias de video
+[2026-04-19 16:09:29] [extract] [INFO]   -> nslt_100.json: 2038 entradas
+[2026-04-19 16:09:29] [extract] [INFO]   -> nslt_1000.json: 13174 entradas
+[2026-04-19 16:09:29] [extract] [INFO]   -> nslt_2000.json: 21095 entradas
+[2026-04-19 16:09:29] [extract] [INFO]   -> nslt_300.json: 5118 entradas
+[2026-04-19 16:09:29] [extract] [INFO] [AUTSL] train: 28142 videos, 226 clases
+[2026-04-19 16:09:29] [extract] [INFO] [AUTSL] val: 4418 videos, 226 clases
+[2026-04-19 16:09:29] [extract] [INFO] [AUTSL] test: 3742 videos, 226 clases
+[2026-04-19 16:09:29] [extract] [INFO] [AUTSL] Total videos MP4: 36302
+[2026-04-19 16:09:29] [extract] [INFO] [LSP PUCP] 27 historias, 3684 videos segmentados, 1082 señas únicas
+[2026-04-19 16:09:29] [extract] [INFO] ============================================================
+[2026-04-19 16:09:29] [extract] [INFO] ✓ Etapa 1 completada.
